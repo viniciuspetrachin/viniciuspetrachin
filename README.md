@@ -9,4 +9,4 @@
   </a>
 </p>
 
-[![Vinicius Petrachin stats](https://github-readme-stats.vercel.app/api?username=viniciuspetrachin)](https://github.com/viniciuspetrachin/readme.md)
+[![Vinicius Petrachin stats](https://github-readme-stats.vercel.app/api?username=viniciuspetrachin&theme=dark)](https://github.com/viniciuspetrachin/readme.md)
