@@ -8,4 +8,5 @@
   <a href="https://matheuspetrachin.github.io/About-Me/" target="_blank" alt="About-Me"><img src="https://img.shields.io/badge/-About--Me-blue"/></a>
   </a>
 </p>
-![Vinicius Petrachin github stats](https://github-readme-stats.vercel.app/api?username=ViniciusPetrachin&show_icons=true&theme=dark)
+
+[![Vinicius Petrachin stats](https://github-readme-stats.vercel.app/api?username=viniciuspetrachin)](https://github.com/viniciuspetrachin/readme.md)
