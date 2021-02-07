@@ -1,5 +1,3 @@
-<img src="dev.png" align="right" alt="Computador" min-width="300px" max-width="300px" width="300px">
-
 <h2 align="left">Hello, how are you? I'm fine!</h2>
 
  <a href="https://www.linkedin.com/in/petrachin" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
