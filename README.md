@@ -1,6 +1,6 @@
 <h2 align="left">Hello, how are you?!</h2>
 
-<p>My name is vinicius I'm 23 years old, I've always loved technology and programming since I was young, but I didn't have a source of work, because my father said there was no future, it was only now in the last 4 years that I understood that I was this is what I should live with. Since then, I've been studying more to get more and more into the job market I love the most.</p>
+<p>My name is Vinícius I'm 23 years old, I've always loved technology and programming since I was young, but I didn't have a source of work, because my father said there was no future, it was only now in the last 4 years that I understood that I was this is what I should live with. Since then, I've been studying more to get more and more into the job market I love the most.</p>
 <p>In my programming journey I've already learned C, Java, PHP and now I'm focused on Javascript/Typescript, which is the language I have the most knowledge of. I really like mobile development so I chose react ecosystem to delve deeper.</p>
 
  <a href="https://www.linkedin.com/in/petrachin" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
