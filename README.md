@@ -24,4 +24,4 @@ I'm a young developer looking to get better every day. I really like the mobile 
   </a>
 </p>
 
-[![Vinicius Petrachin stats](https://github-readme-stats.vercel.app/api?username=viniciuspetrachin&theme=dark)](https://github.com/viniciuspetrachin/readme.md)
+[![Vinicius Petrachin stats](https://github-readme-stats.vercel.app/api?username=viniciuspetrachin&theme=dark)](https://github.com/viniciuspetrachin/viniciuspetrachin)
