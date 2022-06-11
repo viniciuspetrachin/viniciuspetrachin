@@ -1,21 +1,25 @@
 <h2 align="left">Vinícius Petrachin</h2>
 
-<p>Welcome to my profile here on github. I will try whenever possible to show my progress through projects, contributions in my area.
-I'm a young developer looking to get better every day. I really like the mobile area where I started with Java for Android and then migrated to React Native to pursue cross-platform development</p>
+<p>Welcome to my github, here I make some projects available for my portfolio, where I was posting as I was learning, today I confess that here it's a little stuck, because I've already managed to enter the job market, and some of the repositories that I use it is in Azure and ends up not generating more records here. Anyway, whenever I have something to test or learn I'll update here :)</p>
 
 <p>My hobby is programming, coming up with ideas, trying to create solo projects and putting them into practice, I'm really looking for entrepreneurship. I've had projects that went wrong, others went right but were economically unfeasible for my reality. But I will try until I succeed.</p>
 
 <h2>My Area of Knowledge and Affinities</h2>
 <ul>
- <li>Javascript</li>
+ <li>JavaScript</li>
  <li>TypeScript</li>
- <li>React Native</li>
+ <li>React Native CLI</li>
  <li>Expo</li>
  <li>Firebase</li>
+ <li>React Hooks</li>
+ <li>Redux Toolkit</li>
+ <li>Styled Components</li>
+ <li>React Hook Form</li>
  <li>Google Play Console (Publishing)</li>
- <li>English: listening are basic, reading are intermediate.</li>
- <li>Java</li>
- <li>MongoDB</li>
+ <li>Google Play Console Test Intern</li>
+ <li>Apple Developer (Publishing)</li>
+ <li>Apple Developer Testflight</li>
+ <li>Microsoft AppCenter</li>
 </ul>
 
  <a href="https://www.linkedin.com/in/petrachin" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
